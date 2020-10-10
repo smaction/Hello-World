@@ -2,9 +2,7 @@
 using System.Collections.ObjectModel;
 using System.Windows;
 
-namespace Hello_World
+namespace DataTest
 {
-    class Student
-    {
-    }
+    
 }
